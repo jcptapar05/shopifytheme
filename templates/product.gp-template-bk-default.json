@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "order": [
     "main",
@@ -33,18 +33,15 @@
           "type": "buy_buttons"
         },
         "description": {
-          "settings": {
-          },
+          "settings": {},
           "type": "description"
         },
         "price": {
-          "settings": {
-          },
+          "settings": {},
           "type": "price"
         },
         "quantity_selector": {
-          "settings": {
-          },
+          "settings": {},
           "type": "quantity_selector"
         },
         "share": {
@@ -54,8 +51,7 @@
           "type": "share"
         },
         "title": {
-          "settings": {
-          },
+          "settings": {},
           "type": "title"
         },
         "variant_picker": {
